@@ -1,4 +1,4 @@
-package OOPS;
+package InheritanceAndPolymorphism;
 
 public class ParentClass {
 
@@ -10,7 +10,7 @@ public class ParentClass {
 		System.out.println("Marking Attendance");
 	}
 	
-	public void exitTime() {
+	public final void exitTime() {
 		System.out.println("Leaving time is 2 pm");
 	}
 }

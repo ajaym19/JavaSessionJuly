@@ -1,4 +1,4 @@
-package Encapsulations;
+package Abstraction;
 
 public interface RBI {
 

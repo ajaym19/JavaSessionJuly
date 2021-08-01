@@ -1,4 +1,4 @@
-package OOPS;
+package InheritanceAndPolymorphism;
 
 public class Teachers extends ParentClass {
 

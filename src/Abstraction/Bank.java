@@ -1,6 +1,6 @@
-package Encapsulations;
+package Abstraction;
 
-import OOPS.ParentClass;
+import InheritanceAndPolymorphism.ParentClass;
 
 public class Bank extends AbstractDemo implements RBI, SEBI {
 

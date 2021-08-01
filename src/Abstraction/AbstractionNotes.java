@@ -1,6 +1,6 @@
-package Encapsulations;
+package Abstraction;
 
-public class EncapsulationNotes {
+public class AbstractionNotes {
 
 	/*
 	 * ABSTRACTION:
@@ -52,7 +52,7 @@ public class EncapsulationNotes {
 	 * Access Modifiers
 	 * packages
 	 * return type of method
-	 * looping concepts
+	 * 
 	 * 
 	 */
 	
