@@ -2,6 +2,16 @@ package InheritanceAndPolymorphism;
 
 public class ParentClass {
 
+	int id = 5;
+	
+	public ParentClass() {
+		System.out.println("I am in parent class Constructor and being called using super");
+	}
+	
+	public void printId() {
+		System.out.println(id);
+	}
+	
 	public void eat() {
 		System.out.println("Eating Time");
 	}

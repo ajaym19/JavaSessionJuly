@@ -34,6 +34,8 @@ public class StringsDemo {
 		System.out.println(abc);
 
 		StringBuilder sb = new StringBuilder("AJay");
+		//lenght and reverse
+		
 	}
 	
 	

@@ -2,6 +2,21 @@ package InheritanceAndPolymorphism;
 
 public class Students extends ParentClass {
 
+	int id= 10;
+	
+	public Students() {
+		super();
+	}
+	
+	public static void main(String[] args) {
+		Students obj = new Students();
+		obj.printId();
+	}
+	
+	public void printId() {
+		super.printId();
+		System.out.println(id);
+	}
 	public void doStudy() {
 		System.out.println("Students are studying");
 	}
